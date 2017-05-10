@@ -1,1 +1,1 @@
-update and deploy firebase function for code.angularjs.org on 5/1/2017
+insert the core CSS styles without using innerHTML on 5/10/2017
