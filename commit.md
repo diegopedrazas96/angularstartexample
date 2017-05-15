@@ -1,1 +1,1 @@
-clarify example description on 5/30/2017
+fix typos and incorrect example on 5/21/2017
