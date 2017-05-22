@@ -1,1 +1,1 @@
-update protractor to latest version on 5/16/2017
+update and deploy firebase function for code.angularjs.org on 5/2/2017
