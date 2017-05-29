@@ -1,1 +1,1 @@
-clarify example description on 5/27/2017
+update protractor to latest version on 5/19/2017
