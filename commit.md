@@ -1,1 +1,1 @@
-update protractor to latest version on 5/17/2017
+store release instructions on 6/1/2017
