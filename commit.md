@@ -1,1 +1,1 @@
-replace  with  on 6/22/2017
+rename to angular to match npm on 6/6/2017
