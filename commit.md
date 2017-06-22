@@ -1,1 +1,1 @@
-rename to angular to match npm on 6/8/2017
+do not mutate source arrays on 6/12/2017
